@@ -1,0 +1,1 @@
+There were 3521001 votes. The candidates were ['Khan', 'Correy', 'Li', "O'Tooley"] Khan had 2218231 votes, or 63%. Correy had 704200 votes, or 20%. Li had 492940 votes, or 14%. O'Tooley had 105630 votes, or 3%. Khan won the vote!
